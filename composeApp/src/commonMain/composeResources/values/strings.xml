@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<resources>
+
+    <!-- Data Errors -->
+    <string name="data_error_local_disk_full">Disk full</string>
+    <string name="data_error_local_unknown">Unknown local error</string>
+    <string name="data_error_remote_request_timeout">Request timeout</string>
+    <string name="data_error_remote_too_many_requests">Too many requests</string>
+    <string name="data_error_remote_no_internet">No internet connection</string>
+    <string name="data_error_remote_server_error">Server error</string>
+    <string name="data_error_remote_serialization_error">Serialization error</string>
+    <string name="data_error_remote_unknown_error">Unknown remote error</string>
+
+</resources>
